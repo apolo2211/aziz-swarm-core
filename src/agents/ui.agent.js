@@ -1,0 +1,1 @@
+console.log("Agent UI: Monitoring des shaders WebGL actif.");
