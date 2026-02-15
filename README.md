@@ -13,7 +13,7 @@ Développé à **Ksar El Boukhari**, Algérie.
 
 ## 🛠️ Installation
 ```bash
-git clone [https://github.com/VOTRE_NOM/aziz-swarm.git](https://github.com/VOTRE_NOM/aziz-swarm.git)
-cd aziz-swarm
+git clone [https://github.com/apolo2211/aziz-swarm-core.git](https://github.com/apolo2211/aziz-swarm-core.git)
+cd aziz-swarm-core
 npm install
 npm start
